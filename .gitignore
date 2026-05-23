@@ -1,0 +1,10 @@
+# Compiled verifier binaries
+proofs/C_13_6_3_final/verify_cover_13_6_3
+proofs/C_13_6_3_final/export_representatives
+*.o
+*.dSYM/
+
+# Editor / OS
+.DS_Store
+__pycache__/
+*.pyc

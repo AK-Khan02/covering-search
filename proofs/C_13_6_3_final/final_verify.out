@@ -1,0 +1,7 @@
+degree-8 local cases: 0
+degree-9 local cases generated: 3385
+iso certificate classes: 107
+iso certificate verified for all 3385 cases
+all representative relaxed outside-extension instances are UNSAT
+VERIFIED: no 20-block 3-cover of 13 points by 6-subsets exists
+Therefore C(13,6,3) >= 21. rep_check_seconds=3.016
