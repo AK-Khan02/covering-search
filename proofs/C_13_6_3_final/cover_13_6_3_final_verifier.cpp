@@ -1,11 +1,3 @@
-// Machine-checkable verifier for C(13,6,3) >= 21.
-// It performs the finite proof described in cover_13_6_3_final_proof.md.
-// No internet access or external solver is used.
-//
-// Usage:
-//   g++ -O3 -std=c++17 cover_13_6_3_final_verifier.cpp -o verify_cover_13_6_3
-//   ./verify_cover_13_6_3 cover_13_6_3_d9_iso_certificate.txt
-
 #include <algorithm>
 #include <array>
 #include <chrono>
